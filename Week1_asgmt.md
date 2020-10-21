@@ -20,12 +20,15 @@
 >
 >understand other's perspective, which is to put yourself in other's shoes
 
+> communication is most important factor in a successful data analysis project: majority of projects fail not because of technical issues, but lack of communication
 
 
 
 # Ask the right question
 
-Instead of asking one right question, we should ask a list of key questions we can ask before analyzing data
+Instead of asking one right question, we should ask a list of key questions we can ask before analyzing data.
+
+Questions should be direct as well as open-ended
 
 
 
@@ -70,8 +73,37 @@ consider what data you have, and what you might need to achieve the goal
 
 # Listening to stakeholders during elicitation
 
-1. determine your stakeholders
-user of the data: marketing people, or DBA who prepare your data
-[Know your audience](https://www.batimes.com/articles/know-your-audience-dont-let-your-requirements-get-lost-in-translation.html)
+### goals to achieve during elicitation
 
-2.
+1. determine your stakeholders
+user of the data: marketing people, or DBA who prepare your data, or anyone that might be highly impacted by your analysis project
+
+[how to know your audience](https://www.batimes.com/articles/know-your-audience-dont-let-your-requirements-get-lost-in-translation.html)
+
+[five questions to identify key stakeholders](https://hbr.org/2014/03/five-questions-to-identify-key-stakeholders)
+
+2.identify independent variables to test
+in-person meeting is critical
+
+example questions to identify factors:
+- what has been tried before?
+- how did it turn out?
+- what do you think might help improve this business problem?
+
+3. determine whether stakeholders agree about problems to be solved
+
+
+# Stakeholders expectations matter!
+
+*Doug - guest speaker from the data and analytics strategy team in Gartner
+[some of his research articles](https://www.gartner.com/en/doc/374107-predicts-2019-data-and-analytics-strategy)
+
+different data analytics types:
+1. descriptive analytics: what happened?
+2. diagnostic analytics: why it happened?
+3. predictive analytics: what is going to happen?
+4. prescriptive analytics: what recommendations can be provided?
+
+suggestions for stakeholders that are not completely comfortable with advanced big data techniques which has not yet fit into the company's current business culture.
+1. give data usage examples that have been Used
+2. bring prototypes of analytics
