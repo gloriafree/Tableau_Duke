@@ -25,7 +25,7 @@
 
 # Ask the right question
 
-instead of asking one right question, we should ask a list of key questions we can ask before analyzing data
+Instead of asking one right question, we should ask a list of key questions we can ask before analyzing data
 
 
 
@@ -65,3 +65,13 @@ consider what data you have, and what you might need to achieve the goal
 >question 5 - version 1: within 2 months, from achieved click stream data, determine the website changes that will most efficiently increase revenues by 15% on a monthly basis compared to the same month last year
 >
 >question 5 - version 1: within 3 months, install a system that will collect and store click-stream data in a cloud-based relational database. By 2 months after the system is installed, this data will be analyzed to determine the website changes that will most efficiently increase revenues by 15% on a monthly basis compared to the same month last year
+
+
+
+# Listening to stakeholders during elicitation
+
+1. determine your stakeholders
+user of the data: marketing people, or DBA who prepare your data
+[Know your audience](https://www.batimes.com/articles/know-your-audience-dont-let-your-requirements-get-lost-in-translation.html)
+
+2.
