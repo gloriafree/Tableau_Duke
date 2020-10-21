@@ -56,8 +56,7 @@ question 4: within 2 months, determine the website changes that will most effici
 
 * attainable
 *consider what data you have, and what you might need to achieve the goal*
-```
-question 5 - version 1: within 2 months, from achieved click stream data, determine the website changes that will most efficiently increase revenues by 15% on a monthly basis compared to the same month last year
 
-question 5 - version 1: within 3 months, install a system that will collect and store click-stream data in a cloud-based relational database. By 2 months after the system is installed, this data will be analyzed to determine the website changes that will most efficiently increase revenues by 15% on a monthly basis compared to the same month last year
-```
+>question 5 - version 1: within 2 months, from achieved click stream data, determine the website changes that will most efficiently increase revenues by 15% on a monthly basis compared to the same month last year
+
+>question 5 - version 1: within 3 months, install a system that will collect and store click-stream data in a cloud-based relational database. By 2 months after the system is installed, this data will be analyzed to determine the website changes that will most efficiently increase revenues by 15% on a monthly basis compared to the same month last year
