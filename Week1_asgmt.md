@@ -1,17 +1,17 @@
 
 
 # tips for becoming an analyst
-
-* keep Learning
-* consider everything as dependent and independent variables
-* explore advantage and disadvantage of continuous and discrete variables
-* listen, incorporate and internalize what other people say, being engagement
-* train skepticism muscle
-* be patient to track down in details, be curious about what you data should look like
-* cherish precision
-* anticipate the expectation from your teammates and other skate holders, don't simply present the results (especially when they are contradict) to them just because your analysis is great
-* understand other's perspective, which is to put yourself in other's shoes
-
+```
+keep Learning
+consider everything as dependent and independent variables
+explore advantage and disadvantage of continuous and discrete variables
+listen, incorporate and internalize what other people say, being engagement
+train skepticism muscle
+be patient to track down in details, be curious about what you data should look like
+cherish precision
+anticipate the expectation from your teammates and other skate holders, don't simply present the results (especially when they are contradict) to them just because your analysis is great
+understand other's perspective, which is to put yourself in other's shoes
+```
 ---
 
 
