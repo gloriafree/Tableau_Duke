@@ -1,4 +1,3 @@
----
 
 
 # tips for become analyst
