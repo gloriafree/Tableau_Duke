@@ -1,7 +1,7 @@
 
 
 # tips for becoming an analyst
-```
+
 keep Learning
 consider everything as dependent and independent variables
 explore advantage and disadvantage of continuous and discrete variables
@@ -11,7 +11,8 @@ be patient to track down in details, be curious about what you data should look 
 cherish precision
 anticipate the expectation from your teammates and other skate holders, don't simply present the results (especially when they are contradict) to them just because your analysis is great
 understand other's perspective, which is to put yourself in other's shoes
-```
+
+
 ---
 
 
@@ -26,14 +27,13 @@ understand other's perspective, which is to put yourself in other's shoes
 # S.M.A.R.T object
 
 * define the business problem and values they analysis should bring, before jump into the data. Basically, make sure the objectives are:
-```
-specific
-measurable
-attainable
-relevant
-time-bound
 
-```
+- specific
+- measurable
+- attainable
+- relevant
+- time-bound
+
 
 * measurable:
 *how should my business metric change if my recommendations are put into action, and by how much?*
