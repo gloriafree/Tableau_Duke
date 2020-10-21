@@ -50,10 +50,9 @@ question 3: determine the website changes that will most efficiently increase re
 ```
 
 * time-bound
-|question 4| |
-|----------|-|
-|within 2 months, determine the website changes that will most efficiently increase revenues by 15% on a monthly basis compared to the same month last year| |
-
+```
+question 4: within 2 months, determine the website changes that will most efficiently increase revenues by 15% on a monthly basis compared to the same month last year
+```
 
 * attainable
 *consider what data you have, and what you might need to achieve the goal*
