@@ -21,7 +21,6 @@
 >understand other's perspective, which is to put yourself in other's shoes
 
 
----
 
 
 # ask the right question
@@ -29,7 +28,7 @@
 *instead of asking one right question, we should ask a list of key questions we can ask before analyzing data*
 
 
----
+
 
 
 # S.M.A.R.T object
