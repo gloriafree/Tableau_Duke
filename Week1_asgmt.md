@@ -1,6 +1,6 @@
 
 
-# tips for become analyst
+# tips for becoming an analyst
 
 * keep Learning
 * consider everything as dependent and independent variables
