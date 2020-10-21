@@ -26,13 +26,14 @@
 # S.M.A.R.T object
 
 * define the business problem and values they analysis should bring, before jump into the data. Basically, make sure the objectives are:
----
+```
 specific
 measurable
 attainable
 relevant
 time-bound
----
+
+```
 
 * measurable:
 *how should my business metric change if my recommendations are put into action, and by how much?*
