@@ -95,7 +95,7 @@ example questions to identify factors:
 
 # Stakeholders expectations matter!
 
-*Doug - guest speaker from the data and analytics strategy team in Gartner
+* Doug - guest speaker from the data and analytics strategy team in Gartner
 [some of his research articles](https://www.gartner.com/en/doc/374107-predicts-2019-data-and-analytics-strategy)
 
 different data analytics types:
