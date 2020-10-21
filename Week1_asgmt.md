@@ -33,13 +33,13 @@
 
 # S.M.A.R.T object
 
-* define the business problem and values they analysis should bring, before jump into the data. Basically, make sure the objectives are:
+define the business problem and values they analysis should bring, before jump into the data. Basically, make sure the objectives are:
 
-* 1. specific *
-* 2. measurable *
-* 3. attainable *
-* 4. relevant *
-* 5. time-bound *
+ 1. specific
+ 2. measurable
+ 3. attainable
+ 4. relevant
+ 5. time-bound 
 
 
 * measurable:
