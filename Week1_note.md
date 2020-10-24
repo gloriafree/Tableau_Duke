@@ -107,3 +107,11 @@ different data analytics types:
 suggestions for stakeholders that are not completely comfortable with advanced big data techniques which has not yet fit into the company's current business culture.
 1. give data usage examples that have been Used
 2. bring prototypes of analytics
+
+
+
+# Using SPAPs to structure your thinking
+
+1. goal at the top
+2. categories and subcategories of factors with priority
+3. specific factors with priority
