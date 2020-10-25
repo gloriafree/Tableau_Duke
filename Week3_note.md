@@ -59,3 +59,8 @@ if work with large data, we can switch to Extract mode, which is using [columnar
 Basically by re-structing how data are loaded into memory and used by Tableau, it improves the processing time.
 
 more operations on working with extract is saved [here](https://help.tableau.com/current/pro/desktop/en-us/extracting_data.htm).
+
+
+#lesson learned
+the function/feature of different version of tableau could be very different, so one solution in certain version might not work exactly the same as the other.
+so don't simply just apply the same solutions or steps, but try to adjust it according to the version you are currently working on.
